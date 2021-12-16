@@ -3,7 +3,7 @@ import telebot
 
 TOKEN = "your bot token here"
 bot = telebot.TeleBot(token=TOKEN)
-
+#token versene oç
 def findat(msg):
     # from a list of texts, it finds the one with the '@' sign
     for i in msg:
